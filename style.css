@@ -1,0 +1,31 @@
+.first{
+    background-color: teal;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    border: 10px; 
+    border-color: black; 
+    border-style: solid;
+    position: static;
+}
+.second{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border-color: black; 
+    border-top: 20px; border-left: 10px; 
+    border-right: 10px; border-bottom: 20px; 
+    border-style: solid;
+    position: relative;
+    left: 260px;
+}
+.third{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border: 10px; 
+    border-color: black; 
+    border-style: solid;
+    position: relative;
+    left: 40px;
+}
